@@ -1,0 +1,14 @@
+
+1. NodeJS has feature to manipulate file system and browser JS engine\
+has feature to manipulate DOM tree \
+\
+2. in nodeJS global object is global where as in browser it is window \
+and document is operate on document in browser and in node it is process \
+\
+browser -->nodeJS\
+window -->global \
+document -->process\
+
+argument-->argv(argument vector)
+
+console.log(process.argv);
